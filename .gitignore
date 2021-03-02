@@ -1,0 +1,5 @@
+local_config.py
+venv
+.idea
+*.log
+src/__pycache__
